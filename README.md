@@ -5,9 +5,9 @@ Ski Rental System is a project I worked on with my friend Rayan during our first
 
 ![Demo](.githubutils/demo.png)
 
-## Contributing
+## Contributions
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure your code follows the project's coding standards and includes appropriate tests.
+This repository represents my contributions to the project. The project was a collaborative effort with SOUALAH MOHAMMED ZAKARIA.
 
 ## License
 
